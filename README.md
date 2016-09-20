@@ -1,4 +1,5 @@
 # React Native Image Resizer
+fork from [react-native-image-resizer](https://github.com/bamlab/react-native-image-resizer),to resolve when i invoke android native function frequently,it will error: cant invoke android function. 
 
 A React Native module that can create scaled versions of local images (also supports the assets library on iOS).
 
